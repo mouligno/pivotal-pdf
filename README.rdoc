@@ -1,0 +1,10 @@
+=Pivotal PDF Cards
+
+Original URL: git://gist.github.com/405984.git
+
+Original Instructions: http://ephemera.karmi.cz/post/622136360/create-printable-pdf-cards-for-your-pivotal-tracker-stor
+
+= Improvements required
+
+You need to check number of comments in csv and adapt card.rb in order to get all the activity.
+
